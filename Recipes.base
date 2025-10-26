@@ -1,0 +1,11 @@
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.folder == "Recipes"
+    sort:
+      - property: rating
+        direction: DESC
+    cardSize: 160
+    image: note.cover

@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "a03b0512dd69bc93",
+    "type": "split",
+    "children": [
+      {
+        "id": "112ee9a0d19c76d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1484f5fa0776d58b",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Recipes.base",
+                "viewName": "View"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "Recipes"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "471676c5678cc254",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb3655a538a7a936",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7a75b60e0dac2a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "be4adbf567792df4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b406346690dc2eb1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273.51103591918945
+  },
+  "right": {
+    "id": "0b147059d0362b5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5129b64cfd6a2f48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5aac32d52650264a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ca56a3b53c723daf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Remaining steps.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Remaining steps"
+            }
+          },
+          {
+            "id": "9207da86818af716",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0381eeac4dc3e9a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Remaining steps.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Remaining steps"
+            }
+          },
+          {
+            "id": "ce6f5fdcdbfc33f1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "1484f5fa0776d58b",
+  "lastOpenFiles": [
+    "Recipes.md",
+    "Recipes.base",
+    "Journals/Tech Development Journal.md",
+    "Personal Projects/Scuba in Texas.md",
+    "Recipes/Vegan Tofu Chik’n Sammie🔥.md",
+    "Recipes/Tofu Air Fried Balls With Spicy Dip.md",
+    "Templates/Recipe Template.md",
+    "Recipes/Untitled.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Recipes/Smashed Brussels Sprout + Potato Salad.md",
+    "Recipes/Potatoes Au Gratin.md",
+    "Recipes/One-Dish Butter Chicken Pie.md",
+    "Pasted image 20250929220234.png",
+    "Personal Projects/Personal Projects.md",
+    "Personal Projects/Finland.md",
+    "ROS 2 Logging.md",
+    "Standard Streams.md",
+    "Valkyrie Start Up with Behavior Trees.md",
+    "Finland.md",
+    "External Force Estimation.md",
+    "Dependency Injection.md",
+    "Conceptualization of Robot Core.md",
+    "dRRT*.md",
+    "Templates",
+    "Recipes",
+    "Robotic Companies.md",
+    "Robot Logging.md",
+    "Robotics & Software Projects.md",
+    "Personal Projects",
+    "Journals",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Pasted image 20230319204914.png",
+    "Pasted image 20230319204849.png",
+    "Test"
+  ]
+}

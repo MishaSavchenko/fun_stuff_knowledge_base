@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "a03b0512dd69bc93",
+    "type": "split",
+    "children": [
+      {
+        "id": "28cae73b5b3f876d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Horizon A Trajectory Optimization Framework for Robotics Systems.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "471676c5678cc254",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb3655a538a7a936",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7a75b60e0dac2a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "be4adbf567792df4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1ab1b92d2b69b362",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0b147059d0362b5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5129b64cfd6a2f48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5aac32d52650264a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Horizon A Trajectory Optimization Framework for Robotics Systems.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ca56a3b53c723daf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Horizon A Trajectory Optimization Framework for Robotics Systems.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9207da86818af716",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0381eeac4dc3e9a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Horizon A Trajectory Optimization Framework for Robotics Systems.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "28cae73b5b3f876d",
+  "lastOpenFiles": [
+    "dRRT*.md"
+  ]
+}
