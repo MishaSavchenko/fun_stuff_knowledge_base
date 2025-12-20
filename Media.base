@@ -1,0 +1,9 @@
+views:
+  - type: cards
+    name: Media
+    filters:
+      and:
+        - file.folder == "Media"
+    cardSize: 200
+    image: note.cover
+    imageAspectRatio: 1
