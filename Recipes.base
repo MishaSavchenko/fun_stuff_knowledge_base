@@ -7,6 +7,6 @@ views:
     sort:
       - property: rating
         direction: DESC
-    cardSize: 330
+    cardSize: 210
     image: note.cover
     imageAspectRatio: 1
