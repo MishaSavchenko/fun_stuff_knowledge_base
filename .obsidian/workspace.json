@@ -4,20 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "112ee9a0d19c76d1",
+        "id": "a3b0d1a60c55ea87",
         "type": "tabs",
         "children": [
           {
-            "id": "1484f5fa0776d58b",
+            "id": "19c268ee0f1f8f61",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Recipes.base",
-                "viewName": "View"
+                "file": "Tattoo Ideas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-layout-grid",
-              "title": "Recipes"
+              "icon": "lucide-file",
+              "title": "Tattoo Ideas"
             }
           }
         ],
@@ -160,7 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 801.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,37 +185,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1484f5fa0776d58b",
+  "active": "19c268ee0f1f8f61",
   "lastOpenFiles": [
-    "Recipes.md",
-    "Recipes.base",
-    "Journals/Tech Development Journal.md",
-    "Personal Projects/Scuba in Texas.md",
-    "Recipes/Vegan Tofu Chik’n Sammie🔥.md",
-    "Recipes/Tofu Air Fried Balls With Spicy Dip.md",
-    "Templates/Recipe Template.md",
-    "Recipes/Untitled.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Recipes/Smashed Brussels Sprout + Potato Salad.md",
     "Recipes/Potatoes Au Gratin.md",
+    "Tattoo Ideas.md",
+    "Recipes.base",
+    "Media/Rounders.md",
+    "Media.base",
     "Recipes/One-Dish Butter Chicken Pie.md",
-    "Pasted image 20250929220234.png",
-    "Personal Projects/Personal Projects.md",
+    "Unsorted Media.md",
+    "Recipes/Marry Me Chickpeas.md",
+    "Recipes/Crushed Broccoli Florets.md",
+    "Recipes/Cabbage Pancakes (Okonomiyaki).md",
+    "Notes from Shaun.md",
+    "Media/Tremors.md",
+    "Media/Tenacious D in - The Pick of Destiny.md",
+    "Media/Major Paine.md",
+    "Media/Kung Fu Panda 🐼.md",
+    "Media/Interstate 60.md",
+    "Media/DMZ.md",
+    "Media/Bring it on.md",
+    "Media/Bernie.md",
+    "Media/Bend it Like Beckham.md",
+    "Media/StellarDream.md",
+    "Media/My Sassy Girl.md",
+    "Media/The Holdovers (2023).md",
+    "Media/Gerald's Game.md",
+    "Media/Altered.md",
+    "Media/Cure.md",
+    "Media/The Wandering Earth 2.md",
     "Personal Projects/Finland.md",
-    "ROS 2 Logging.md",
-    "Standard Streams.md",
-    "Valkyrie Start Up with Behavior Trees.md",
-    "Finland.md",
-    "External Force Estimation.md",
-    "Dependency Injection.md",
-    "Conceptualization of Robot Core.md",
-    "dRRT*.md",
+    "Media",
+    "Pasted image 20250929220234.png",
     "Templates",
     "Recipes",
-    "Robotic Companies.md",
-    "Robot Logging.md",
-    "Robotics & Software Projects.md",
     "Personal Projects",
     "Journals",
     "Untitled 1.canvas",
